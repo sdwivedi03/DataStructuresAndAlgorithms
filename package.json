@@ -1,0 +1,28 @@
+{
+  "name": "datastructuresandalgorithms",
+  "version": "0.0.1",
+  "description": "contains implementation of various data structures and algorithm for popular problems",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdwivedi03/DataStructuresAndAlgorithms.git"
+  },
+  "keywords": [
+    "'data",
+    "structures'",
+    "algorithm",
+    "'collection",
+    "framework'"
+  ],
+  "author": "Satyam Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdwivedi03/DataStructuresAndAlgorithms/issues"
+  },
+  "homepage": "https://github.com/sdwivedi03/DataStructuresAndAlgorithms#readme"
+}
